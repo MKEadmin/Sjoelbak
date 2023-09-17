@@ -1,0 +1,2 @@
+import shooter
+shooter.run()
